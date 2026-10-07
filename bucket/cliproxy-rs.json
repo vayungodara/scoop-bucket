@@ -1,13 +1,13 @@
 {
-    "version": "0.2.1",
+    "version": "0.2.2",
     "description": "One local endpoint for Codex CLI, Claude Code and other tools, using your own API keys or accounts. Rust rewrite of CLIProxyAPI.",
     "homepage": "https://github.com/vayungodara/cliproxy-rs",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/vayungodara/cliproxy-rs/releases/download/v0.2.1/cliproxy-0.2.1-x86_64-pc-windows-msvc.zip",
-            "hash": "c21ef9955b1eb520bb90d5cf6a6daa914d8052c2139cea0db87b6aef1c610310",
-            "extract_dir": "cliproxy-0.2.1-x86_64-pc-windows-msvc"
+            "url": "https://github.com/vayungodara/cliproxy-rs/releases/download/v0.2.2/cliproxy-0.2.2-x86_64-pc-windows-msvc.zip",
+            "hash": "20c5f6d1b89b32d068eb9caf451bc4eae07fe889fafc5c1a794298980cea2cd4",
+            "extract_dir": "cliproxy-0.2.2-x86_64-pc-windows-msvc"
         }
     },
     "bin": "cliproxy.exe",
