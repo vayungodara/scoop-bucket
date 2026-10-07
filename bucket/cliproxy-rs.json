@@ -11,6 +11,7 @@
         }
     },
     "bin": "cliproxy.exe",
+    "notes": "Scoop installs the binary only. To create config.yaml and keys.env, see https://github.com/vayungodara/cliproxy-rs/blob/master/docs/INSTALL.md#first-run-without-the-install-script",
     "checkver": "github",
     "autoupdate": {
         "architecture": {
